@@ -1,7 +1,6 @@
 # Time-series analysis: A Primer
 ---
-title: "Untitled"
-output: html_document
+
 ---
 
 ## Time-series
